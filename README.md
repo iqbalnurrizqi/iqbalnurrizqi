@@ -2,7 +2,7 @@
 
 # Hi there, I'm Iqbal Nurrizqi 👋
 
-### 🎯 Front-End Developer · Lifelong Learner · Based in Malang, Indonesia
+### 🎯 FullStack Developer · Lifelong Learner · Based in Serang, Banten, Indonesia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqbal-nurrizqi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrrzqiiqbal)
